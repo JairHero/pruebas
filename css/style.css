@@ -3,6 +3,14 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: black;
 }
+#cabecera{
+    width: 300px;
+    border: 2px solid red;
+}
 div{
-    border: 1px solid deeppink;
+    width: 300px;
+    border: 2px solid violet;
+}
+h1{
+    text-align: left;
 }
